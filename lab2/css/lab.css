@@ -1,18 +1,22 @@
-h1 {
+`h1 {
 	color: orange;
 	font-size:200%;
 }
+p{
+	text-indent: 50px
+	font-size: 20px
+}
 p {
-	font-family:"comic sans"
+	font-family: fantasy;
 	text-indent: 20px;
-	margin-left: 20px
+	margin-left: 20px;
 }
 #content {
-	background-color: #cccccc;
+	background-color: #ffdcdc;
 	width: 500px;
 	min-height: 300px;
 	padding: 10px;
-	margin: 10px;
-	border: solid 1px #444444;
+	margin: 450px;
+	border: solid 10px #71699d;
 	font-size: 20px;
 }

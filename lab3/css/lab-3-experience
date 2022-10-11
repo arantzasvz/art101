@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Lab 3 - File Structure</title>
+	<main>
+		<h1>Lab 3 - File Structure</h1>
+		<p>my experience with doing lab 3</p>
+
+		<div id= "content">
+		<h2>This is a secondary heading
+		<p> </p>
+		</div>
+	 href="folder/index.html" into href="lab-3-experience/"
