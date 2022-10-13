@@ -1,0 +1,60 @@
+h1 {
+	color: black;
+	font-size:200%;
+	display: block;
+	font-family: sans-serif;
+}
+h2 {
+	color: black;
+	display: block;
+	font-family: sans-serif;
+}
+h3 {
+	color: black;
+	display: block;
+	font-family: sans-serif;
+}
+p{
+
+    color: black;
+    display: block;
+    font-family: sans-serif;
+    font-size: 1em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: 500;
+}
+p{
+	  color: #1f49848f;
+		font-family: sans-serif;
+		text-indent: 20px;
+		margin-left: 20px;
+		text-indent: 50px
+		font-size: 1em
+	}
+
+p {
+  color: #1f49848f;
+	font-family: sans-serif;
+	text-indent: 20px;
+	margin-left: 20px;
+}
+#content {
+    background-color: #dce6e9;
+    width: 1390px;
+    min-height: 300px;
+    padding: 10px;
+    margin: 0px;
+    border: solid 10px #2f4d7d;
+    font-size: 20px;
+}
+
+#hellokittyandi {
+width: 400px;
+border:10px
+solid #2f4d7d;
+padding:3px;
+margin:5px
+}
