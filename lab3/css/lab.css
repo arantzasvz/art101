@@ -29,7 +29,7 @@ p{
 		text-indent: 50px
 		font-size: 1em
 	}
-	
+
 p {
   color: #1f49848f;
 	font-family: sans-serif;
@@ -52,4 +52,9 @@ border:10px
 solid #2f4d7d;
 padding:3px;
 margin:5px
+}
+
+#filestructurescreenshot {
+width: 900px;
+padding:3px;
 }
