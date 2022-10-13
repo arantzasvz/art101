@@ -26,11 +26,10 @@ p{
 		font-family: sans-serif;
 		text-indent: 20px;
 		margin-left: 20px;
-}
-p{
-	text-indent: 50px
-	font-size: 1em
-}
+		text-indent: 50px
+		font-size: 1em
+	}
+	
 p {
   color: #1f49848f;
 	font-family: sans-serif;
