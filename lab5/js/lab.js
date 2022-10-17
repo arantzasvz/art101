@@ -4,7 +4,6 @@
  * License: Public Domain
  */
 
-console.log
 
 // Define Variables
 make = "Honda";
@@ -16,10 +15,8 @@ year = 2000;
 age = 2022 - year;
 
 // output
-document.writeln("Make: " + Honda + "<br>");
-document.writeln("Model: " + CRV + "<br>");
-document.writeln("Color: " + Black + "<br>");
-document.writeln("Year: " + 2000 + "<br>");
-document.writeln("Age: " + 22 + " years<br>");
-
-<script type="text/javascript" src="js/lab5.js"></script>
+document.writeln("Make: " + Make + "<br>");
+document.writeln("Model: " + Model + "<br>");
+document.writeln("Color: " + Color + "<br>");
+document.writeln("Year: " + Year + "<br>");
+document.writeln("Age: " + Age + " years<br>");
