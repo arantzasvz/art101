@@ -4,7 +4,6 @@
  * License: Public Domain
  */
 
-
 // Define Variables
 make = "Honda";
 model = "CRV";
@@ -15,8 +14,8 @@ year = 2000;
 age = 2022 - year;
 
 // output
-document.writeln("Make: " + Make + "<br>");
-document.writeln("Model: " + Model + "<br>");
-document.writeln("Color: " + Color + "<br>");
-document.writeln("Year: " + Year + "<br>");
-document.writeln("Age: " + Age + " years<br>");
+document.writeln("make: " + make + "<br>");
+document.writeln("model: " + model + "<br>");
+document.writeln("color: " + color + "<br>");
+document.writeln("year: " + year + "<br>");
+document.writeln("age: " + age + " years<br>");
