@@ -50,10 +50,11 @@ p {
     border: solid 10px #2f4d7d;
     font-size: 20px;
 }
-<div>
-<h3>Script Output</h3>
-<div class=output>
-			 <script type="text/javascript" src="js/lab.js"></script>
-		 </div>
-	 </div>
-</body>
+
+#pattyscrv {
+width: 400px;
+border:10px
+solid #2f4d7d;
+padding:3px;
+margin:5px
+}
