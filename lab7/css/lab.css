@@ -27,7 +27,7 @@ p{
     font-weight: 500;
 }
 p{
-	  color: #1f49848f;
+	  color: black;
 		font-family: sans-serif;
 		text-indent: 20px;
 		margin-left: 20px;
@@ -36,24 +36,21 @@ p{
 	}
 
 p {
-  color: #1f49848f;
+  color: black;
 	font-family: sans-serif;
 	text-indent: 20px;
 	margin-left: 20px;
 }
 #content {
-    background-color: #dce6e9;
+    background-color: #e6e48f;
     width: 1390px;
     min-height: 300px;
     padding: 10px;
     margin: 0px;
-    border: solid 10px #2f4d7d;
+    border: solid 10px #d6a276;
     font-size: 20px;
 }
-<div>
-<h3>Script Output</h3>
-<div class=output>
-			 <script type="text/javascript" src="js/lab.js"></script>
-		 </div>
-	 </div>
-</body>
+
+#pattyscrv6 {
+width: 400px;
+}
