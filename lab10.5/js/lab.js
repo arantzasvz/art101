@@ -64,15 +64,15 @@ buttonElAna.addEventListener("click", function(){
       }
   );
 
-function main() {
-    var userName = window.prompt("Hi. Please tell me your name so I can fix it.");
-    document.writeln("<style>:root {--textlen: " + userName.length + ";}</style>");
-    var sortedName = sortUserName(userName);
-    document.writeln("Here's your sorted name: " + sortedName + "</br></br>");
-    var randomName = randomizeName(userName);
-    document.writeln("And oh hey, I fixed your name.<br>Your new one is above.");
-    document.writeln("<div class='name'>" + randomName + "</div>")
-}
+  function main() {
+      var userName = window.prompt("Hi. Please tell me your name so I can fix it.");
+      document.writeln("<style>:root {--textlen: " + userName.length + ";}</style>");
+      var sortedName = sortUserName(userName);
+      document.writeln("Here's your sorted name: " + sortedName + "</br></br>");
+      var randomName = randomizeName(userName);
+      document.writeln("And oh hey, I fixed your name.<br>Your new one is above.");
+      document.writeln("<div class='name'>" + randomName + "</div>")
+  }
 
-// call the function
-main2();
+  // call the function
+  main2();
