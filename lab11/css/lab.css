@@ -4,9 +4,9 @@
 }
 
 body {
-  background-color: #a9a8cd;
+  background-color: #678462;
   text-align: center;
-  color:pink;
+  color: #ac2464;
 }
 
 span {
@@ -31,7 +31,15 @@ h2{
   padding-top: 5px;
   padding-bottom: 10px;
 }
-
+h3{
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+h4{
+  padding-top: 5px;
+  padding-bottom: 10px;
+  font-size: 18px;
+}
 #remove-box {
   width:100%;
   height:100%;
