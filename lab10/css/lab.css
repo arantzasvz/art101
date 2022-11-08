@@ -45,12 +45,3 @@ p {
     border: solid 10px #2f4d7d;
     font-size: 20px;
 }
-#new-one #new-two {
-  background-color: #dce6e9;
-  width: 1390px;
-  min-height: 300px;
-  padding: 10px;
-  margin: 0px;
-  border: solid 10px #2f4d7d;
-  font-size: 20px;
-}
