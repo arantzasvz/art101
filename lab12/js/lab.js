@@ -7,7 +7,7 @@ function SortingHat(name) {
   var length = name.length;
   var mod = length % 4;
   if (mod == 0) {
-  	var house = "Griffindor"
+  	var house = "Gryffindor"
   } else if (mod == 1) {
   	var house = "Ravenclaw"
   } else if (mod == 2) {

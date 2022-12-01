@@ -1,0 +1,48 @@
+* {
+  margin:0;
+  padding:0;
+  font-size:20px;
+}
+
+body {
+  background-color: #366e93;
+  text-align: center;
+  color: #d8b7ed;
+}
+
+h1 {
+  padding-top: 2%;
+}
+
+#firsth2 {
+  padding-top: 1%;
+}
+
+label, input, button {
+  display: block;
+  margin: 10px auto;
+}
+
+h2{
+  padding-top: 5px;
+  padding-bottom: 10px;
+  font-size: 20px;
+}
+h3{
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+h4{
+  padding-top: 5px;
+  padding-bottom: 10px;
+  font-size: 18px;
+}
+.fancy-box {
+  border: solid 4px #ac2464;
+  height: 150px;
+  padding: 10px;
+  length: 175px
+}
+img {
+  width: 250px;
+}
