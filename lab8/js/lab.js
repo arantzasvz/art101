@@ -3,22 +3,29 @@
  * Created: 25 October
  */
 
-function multiple10 (x) {
-                 return (x + 10 == 20);
-}
- //test function
- console.log("is it 10?", multiple10(10));
- console.log("is it 20", multiple10(20));
+ var numArray = [10, 20, 30, 40, 50];
 
- array = [10, 20, 30, 40, 50, 60, 70, 80 ,90, 100]
- console.log ("My array", tens);
+ function numTens(x) {
+     return (x * 10)
+ }
+ console.log("1 * 10 is: ", numTens(1));
+ console.log("2 * 10 is: ", numTens(2));
+ console.log("3 * 10 is: ", numTens(3));
 
- var result = array.map (tens) ;
- //should return [true, false, false, false, false, false, false, false, false, false]
- console.log("Test of 10s:" result)
+ var result = numArray.map(numTens);
+   console.log("Test of numTens of array: ", result);
 
- multiple10.map (function(x) {
-        return x + 20;
-})
-//should return [30, 40, 50, 60, 70, 80, 90, 100, 110]
-console.log ("multiple of 10",result);
+ var result = numArray.map(function(x){
+     return (x * 10);
+ })
+  function isEven(x) {
+    return (x % 2 == 0);
+  }
+  console.log ("Is one even?", isEven(1));
+  console.log ("Is two even?", isEven(2));
+  console.log ("Is three even?", isEven(3));
+  console.log ("Is four even?", isEven(4));
+  console.log ("Is five even?", isEven(5));
+    console.log("Test of anonymous function of array: ", result);
+   var result = numArray.map (numTens);
+   console.log ("Test if true or false:",result);
