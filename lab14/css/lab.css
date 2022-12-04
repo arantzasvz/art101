@@ -4,9 +4,9 @@
 }
 
 body {
-  background-color: #d879ac;
+  background-color: #7a7dd2;
   text-align: center;
-  color: #dbd22c;
+  color: #ffffff;
 }
 
 h1 {
@@ -37,8 +37,20 @@ h4{
   font-size: 18px;
 }
 .fancy-box {
-  border: solid 4px #ac2464;
+  border: solid 4px #ffffff;
   height: 120px;
   padding: 10px;
   length: 175px
+}
+
+#jsdebug {
+width: 550px;
+padding:3px;
+margin:5px
+}
+
+#debuglab8 {
+width: 500px;
+padding:3px;
+margin:5px
 }
